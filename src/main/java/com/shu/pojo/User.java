@@ -12,4 +12,5 @@ public class User {
     private String name;
     private String password;
     private String pems;
+    private String shiro;//dasdasdsad
 }
